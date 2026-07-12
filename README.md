@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Akhila Cheekurthi 👋
 
-<!--
-**Akhilacheekurthi/Akhilacheekurthi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech Student | Information Technology**
+🏫 Dhanekula Institute of Engineering and Technology
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I'm an Information Technology student with a passion for software development and continuous learning. I enjoy building web applications, solving programming challenges, and exploring new technologies that help create efficient and user-friendly solutions.
+
+I believe in writing clean code, learning through hands-on projects, and constantly improving my technical skills.
+
+---
+
+## 🚀 Technical Skills
+
+### 💻 Programming Languages
+
+* Python
+* Java
+
+### 🌐 Web Development
+
+* React.js
+
+### 🗄️ Databases
+
+* MySQL
+* MongoDB
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React Development
+* Backend Development
+* Data Structures & Algorithms
+* Database Optimization
+
+---
+
+## 🎯 Career Goal
+
+Aspiring Software Developer passionate about creating scalable applications and continuously expanding my knowledge in modern software technologies.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: *Add your LinkedIn profile here*
+* Email: *Add your email here*
+
+---
+
+⭐ *"Learning never stops. Every project is an opportunity to grow."*
