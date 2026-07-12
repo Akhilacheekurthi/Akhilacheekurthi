@@ -1,52 +1,64 @@
-# Hi there, I'm Akhila Cheekurthi 👋
+# Hi, I'm Akhila Cheekurthi
 
-🎓 **B.Tech Student | Information Technology**
-🏫 Dhanekula Institute of Engineering and Technology
+Information Technology Student | Aspiring Software Developer
 
----
-
-## 👩‍💻 About Me
-
-I'm an Information Technology student with a passion for software development and continuous learning. I enjoy building web applications, solving programming challenges, and exploring new technologies that help create efficient and user-friendly solutions.
-
-I believe in writing clean code, learning through hands-on projects, and constantly improving my technical skills.
+Passionate about software development, problem-solving, and continuous learning. I enjoy building web applications, solving programming challenges, and exploring modern technologies to create efficient and user-friendly solutions.
 
 ---
 
-## 🚀 Technical Skills
+# About Me
 
-### 💻 Programming Languages
+• Information Technology student at Dhanekula Institute of Engineering and Technology
 
-* Python
-* Java
+• Passionate about software development and modern web technologies
 
-### 🌐 Web Development
+• Enjoy building practical projects to improve technical skills
 
-* React.js
+• Believe in writing clean, maintainable, and efficient code
 
-### 🗄️ Databases
-
-* MySQL
-* MongoDB
+• Always eager to learn new technologies and improve through hands-on experience
 
 ---
 
-## 🌱 Currently Learning
+# Technical Skills
 
-* Advanced React Development
-* Backend Development
-* Data Structures & Algorithms
-* Database Optimization
+## Programming Languages
+
+• Python
+
+• Java
+
+## Web Development
+
+• React.js
+
+## Databases
+
+• MySQL
+
+• MongoDB
 
 ---
 
-## 🎯 Career Goal
+# Currently Learning
+
+• Advanced React Development
+
+• Backend Development
+
+• Data Structures & Algorithms
+
+• Database Optimization
+
+---
+
+# Career Goal
 
 Aspiring Software Developer passionate about creating scalable applications and continuously expanding my knowledge in modern software technologies.
 
 ---
 
-## 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
@@ -55,11 +67,8 @@ Aspiring Software Developer passionate about creating scalable applications and 
 
 ---
 
-## 📫 Connect with Me
+# Connect with Me
 
-* LinkedIn: *Add your LinkedIn profile here*
-* Email: *Add your email here*
+• LinkedIn:https://www.linkedin.com/in/akhila-cheekurthi-85497b364?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
----
-
-⭐ *"Learning never stops. Every project is an opportunity to grow."*
+• Email: akhilach2407@gmail.com
